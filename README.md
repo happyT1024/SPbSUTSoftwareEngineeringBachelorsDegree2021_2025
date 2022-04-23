@@ -1,1 +1,3 @@
-# SBpSUTSoftwareEngineeringBachelorsDegree2021_2025
+# SBpSUTSoftwareEngineeringBachelorsDegree
+
+Code written by me while studying at university
